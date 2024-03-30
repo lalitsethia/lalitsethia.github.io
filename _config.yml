@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lalit's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lalit Sethia"
 description              : &description "Economist. Data Scientist. Ph.D. Candidate."
