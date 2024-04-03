@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Ph.D. Candidate in the Department of Economics at Boston University. I am on the job market and available for interviews. 
+I am Ph.D. Candidate in the Department of Economics at Boston University. I am an applied economist with projects in international, and development economics. I leverage data and rigorous empirical methods to uncover statistical patterns and causal relationships. 
+
+I am on the job market and available for interviews.
 
 <!-- Research Projects
 ======
