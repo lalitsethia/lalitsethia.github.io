@@ -9,7 +9,7 @@ redirect_from:
 
 I am Ph.D. Candidate in the Department of Economics at Boston University. I am an applied economist with projects in international, and development economics. I leverage data and rigorous empirical methods to uncover statistical patterns and causal relationships. 
 
-I am on the job market and available for interviews. You can find my [CV here](https://lalitsethia.github.io/files/resume.pdf).
+I am on the job market and available for interviews. You can find my [CV here](/files/resume.pdf).
 
 <!-- Research Projects
 ======
