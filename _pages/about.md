@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Ph.D. Candidate in the Department of Economics at Boston University. I am an applied economist with projects in international, and development economics. I leverage data and rigorous empirical methods to uncover statistical patterns and causal relationships. I also develop and calibrate structural models to perform counterfactual analysis. 
+I am Ph.D. Candidate in the Department of Economics at Boston University. I am an applied economist specializing in international, and macroeconomics. I leverage large datasets and rigorous empirical methods to identify statistical and causal relationships. I also develop and calibrate quantitative models to perform counterfactual analysis. Prior to joining the Ph.D. program, I worked for over two years in healthcare investment banking with UBS's India development office. 
 
-I am on the job market and available for interviews. You can find my [CV here](https://lalitsethia.github.io//files/Resume.pdf).
+I am on the job market and available for interviews. You can find my [resume here](https://lalitsethia.github.io//files/Resume.pdf).
 
 <!-- Research Projects
 ======
