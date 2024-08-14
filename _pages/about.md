@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Ph.D. Candidate in the Department of Economics at Boston University. I am an applied economist specializing in international, and macroeconomics. I leverage large datasets and rigorous empirical methods to identify statistical and causal relationships. I also develop and calibrate quantitative models to perform counterfactual analysis. Prior to joining the Ph.D. program, I worked for over two years in healthcare investment banking with UBS's India development office. 
+I am Ph.D. Candidate in the Department of Economics at Boston University. I am an applied economist specializing in international, and macroeconomics. I leverage large datasets and creative empirical strategies to identify statistical and causal relationships. I also develop and calibrate quantitative models for counterfactual analysis. Prior to joining the Ph.D. program, I worked for over two years in healthcare investment banking with UBS's India development office. 
 
-I am on the job market and available for interviews. You can find my [resume here](https://lalitsethia.github.io//files/Resume.pdf).
+I am on the job market for opportunity in data scientist, quantitative research, and consulting. You can find my [resume here](https://lalitsethia.github.io//files/Resume.pdf).
+
+Kindly reach out for interviews over lalit@bu.edu. 
+
 
 <!-- Research Projects
 ======
