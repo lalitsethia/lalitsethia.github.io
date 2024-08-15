@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Working Papers
-### [The impact of visas on international travel.](https://lalitsethia.github.io/files/jmp.pdf) ((JMP, significantly revised draft coming soon))
+### [The impact of visas on international travel.](https://lalitsethia.github.io/files/jmp.pdf) (JMP, significantly revised draft coming soon)
 
 I study the relevance of business travel costs on international trade. I show that visa requirements are non-trivial and are significantly associated with lower trade. I also emphasize that non-business travel accounts for close to 80% of international travel and is therefore an important determinant of business travel cost. Motivated by these facts, I develop a model of international trade with heterogeneous firms where firms must undertake business travel to export. The model incorporates a travel sector that provides travel services to both tourists and business travelers, so the price of travel is determined in equilibrium. In the model, travel costs affect the extensive margin of firm participation to export. I calibrate the model to closely match international trade flows. I simulate two counterfactual scenarios: (i) reduced travel costs through improved airplane technology, and (ii) reduced fixed costs through relaxed visa policies. Preliminary findings indicate that a 25% reduction in travel costs between China and the EU due to lenient visa policies increases trade by 2.3%, while a 30% enhancement in airplane efficiency globally boosts trade by an average of 1.3%.
 
