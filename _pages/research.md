@@ -1,32 +1,22 @@
 ---
 permalink: /research/
-title: "Research projects"
+title: "(Old) Research projects"
 author_profile: true
 redirect_from: 
   - /publications/
   - /publications.html
 ---
 
+I will try to clean up this page soon and update the last versions of these papers. 
+
 ## Working Papers
-### [The impact of visas on international travel.](https://lalitsethia.github.io/files/jmp.pdf) (JMP, significantly revised draft coming soon)
+<!--### [Visas, travel services and tourism in international trade.](https://lalitsethia.github.io/files/jmp.pdf)-->
 
-I study the relevance of business travel costs on international trade. I show that visa requirements are non-trivial and are significantly associated with lower trade. I also emphasize that non-business travel accounts for close to 80% of international travel and is therefore an important determinant of business travel cost. Motivated by these facts, I develop a model of international trade with heterogeneous firms where firms must undertake business travel to export. The model incorporates a travel sector that provides travel services to both tourists and business travelers, so the price of travel is determined in equilibrium. In the model, travel costs affect the extensive margin of firm participation to export. I calibrate the model to closely match international trade flows. I simulate two counterfactual scenarios: (i) reduced travel costs through improved airplane technology, and (ii) reduced fixed costs through relaxed visa policies. Preliminary findings indicate that a 25% reduction in travel costs between China and the EU due to lenient visa policies increases trade by 2.3%, while a 30% enhancement in airplane efficiency globally boosts trade by an average of 1.3%.
+### Visas, travel services and tourism in international trade.
+I analyse the relation between international trade and international travel. Specifically, I study the role of visa requirements in hindering business travel, and highlight the relevance of tourism in determining travel costs. First, I show that business travel accounts for a substantial share of international travel, and requiring a visa to travel from an exporting country to an importing country is associated with lower exports. Then, I combine these facts in a model of international trade featuring tourism and business travel, incorporating endogenous travel costs. The model includes visa requirements, travel services, and trade frictions, that jointly determine travel costs between countries. In the model a travel service sector provides transport and lodging services to tourists and business travellers employing labor from the origin and destination countries, and so, the price of travel services is determined in equilibrium. Finally, using reasonable values for the parameters of the model, I numerically simulate the model. The simulations reveal that while relaxing visa requirements results in gains in welfare and trade flows, the gains are greater in a model featuring tourism. This is the result of a lower travel prices resulting from the elastic demand for tourism. 
 
-Growth             |  Composition
-:-------------------------:|:-------------------------:
-![Passenger flow growth relative to 2004](/images/PassengerFlow_RelativeTo2004.png)  |  ![Passenger Composition](/images/PersonalVsBusinessTravelShare_v1.png)
+### Empirical facts about global value chains.
+I investigate the relationship between an industry's position in the global value chain (GVC) and key economic outcomes for the industry, such as the diversification of its demand, uncertainty in its revenue growth, and its relative factor use. Using the upstreamness index developed by \cite{antras2012measuring}, I show that more upstream industries tend to serve a wider range of downstream buyers, with a unit increase in upstreamness of an industry being associated with 43 additional downstream industries purchasing its output. Despite this diversified demand base, upstream industries face greater variability in their revenue growth, likely due to correlation and feedback in demand shocks among downstream sectors. However, upstream industries do not respond to the higher variability in revenue growth by adopting a more flexible production technology, such as a labor-intensive process, but instead use a capital-intensive production technology. This is likely because the efficiency gains from economies of scale outweigh the losses from an inflexible production process. I argue that models studying the behavior of global value chains ought to account for greater demand uncertainty and capital intensity as upstreamness increases.
 
-### Child labor supply and NREGS in India (Draft available upon request)
-I quantify the intent-to-treat effects of the presence of the National Rural Employment Guarantee Scheme (NREGS) on child labor outcomes. Little to no empirical literature exists evaluating the effects on child labor decision upon exogenous changes in adult labor supply. I use a Difference-in-Difference (DID) strategy along with child fixed-effects and the older cohort of Young Lives India (YLI) panel data to identify the direction and magnitude of changes in child labor supply in Andhra Pradesh and Telangana (formerly Andhra Pradesh) due to the presence of NREGS. With the help of the detailed child time allocation data in YLI panel I differentiate between various types of labor activities and with staggered implementation of NREGS I look at changes in intensive and extensive margins of child labor across genders. I observe significant gender-wise differential effect of the treatment (presence of NREGS in a district) on labor supply to household chores, family (or household) enterprises and paid labor. While participation decreased for boys, there was a displacement of girls from labor from one form of activity to another. [comment]: <> (https://lalitsethia.github.io/files/childlabor.pdf)
-
-## Work in Progress
-### Determinants of IT adoption (Draft in progress)
-I construct detailed factory-level data from India and show that IT investments increased disproportionately with firm size,  that is, the intensity of IT use increases with scale. This suggests that they gain more from a fall in IT prices, as witnessed during the export-driven IT boom in India and could have increased their market share.
-
-IT stock             |  IT investment
-:-------------------------:|:-------------------------:
-![Stock](/images/ITStockperEmployee.png)  |  ![Investment](/images/ITInvestperEmployee.png)
-
-
-
-
+### Drivers and impact of IT adoption on manufacturing: Evidence from India.
+I examine the factors that drove IT adoption among Indian manufacturing firms and explore the impact of this adoption on the sector. Using a detailed panel of manufacturing establishments, I find that: (i) IT demand is positively associated with firm-size with factories with 2,500 to 5,000 employees investing \$44 on computer equipment and software per employee more compared to firms under 20 employees, (ii) IT adoption is concentrated in regions close to IT export hubs, and (iii) both productivity and markups respond positively to IT use with a one percent increase in IT investment per employee being associated with a 1.3 percent increase in productivity and a 1.8 percent increase in markups. My results identify important drivers of IT adoption and use, as well as, the impact of IT on critical firm variables.
